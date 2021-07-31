@@ -16,7 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="yoda" src="picasion.com_3b22478d5a1d62b54d1ef194f4a16342.gif">
+  <img align="right" alt="yoda" height="120" width="140" src="picasion.com_3b22478d5a1d62b54d1ef194f4a16342.gif">
 </div>
 
 ##
