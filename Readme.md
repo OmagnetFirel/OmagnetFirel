@@ -8,6 +8,7 @@
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=omagnetfirel&theme=vue-dark" /></td>
   </tr>   
 </table>
+  <p>I'm a software developer at agenciaM3. I'm a 21 year old Brazilian and bachelor's student in Information Systems, so I'm always looking for new experiences. I also love to travel and meet new people :D .</p>
 </center>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
