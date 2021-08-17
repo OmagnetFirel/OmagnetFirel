@@ -4,8 +4,9 @@
 <center>
 <table>
   <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=omagnetfirel&theme=vue-dark" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagnetfirel&hide=html&layout=compact&theme=vue-dark" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=omagnetfirel&theme=vue-dark" /></td>
+
   </tr>   
 </table>
   <p>I'm a software developer at agenciaM3. I'm a 21 year old Brazilian and bachelor's student in Information Systems, so I'm always looking for new experiences. I also love to travel and meet new people :D .</p>
