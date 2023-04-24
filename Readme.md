@@ -4,8 +4,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmagnetFirel&layout=compact&langs_count=7&theme=vue-dark"/></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=omagnetfirel&theme=vue-dark" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmagnetFirel&layout=compact&langs_count=7&theme=dracula"/></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=omagnetfirel&theme=dracula" /></td>
 
   </tr>   
 </table>
