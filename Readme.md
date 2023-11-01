@@ -7,7 +7,9 @@
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmagnetFirel&layout=compact&langs_count=7&theme=dracula"/></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=omagnetfirel&theme=dracula" /></td>
   </tr> 
-  <tr>
+</table>
+<table>
+    <tr>
       <td>
          <a href="https://app.daily.dev/DailyDevTips" width="140px"><img src="./devcard.svg" width="140px" alt="Victor Mouza's Dev Card"/></a>
       </td>
