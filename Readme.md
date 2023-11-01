@@ -9,6 +9,7 @@
 
   </tr>   
 </table>
+   <a href="https://app.daily.dev/DailyDevTips"><img src="./devcard.svg" width="140W" alt="Victor Mouza's Dev Card"/></a>
   <p>I'm a software developer at agenciaM3. I'm a 23 year old Brazilian and bachelor's student in Information Systems, so I'm always looking for new experiences. I also love to travel and meet new people :D .</p>
 </center>
 <div style="display: inline_block"><br>
@@ -23,16 +24,13 @@
 </div>
 
 ##
-<div style="display:flex; justify-content:space-between; flex-direction:row">
-  <div> 
-    <a href="https://www.instagram.com/victor.mouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:victormouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/victor-mouza-a8ab90174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
-   <a href="https://app.daily.dev/DailyDevTips"><img src="./devcard.svg" width="240" alt="Victor Mouza's Dev Card"/></a>
-
+<div> 
+  <a href="https://www.instagram.com/victor.mouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:victormouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-mouza-a8ab90174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
 
 
