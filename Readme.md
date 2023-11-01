@@ -9,7 +9,7 @@
 
   </tr>   
 </table>
-   <a href="https://app.daily.dev/DailyDevTips"><img src="./devcard.svg" width="140W" alt="Victor Mouza's Dev Card"/></a>
+   <a href="https://app.daily.dev/DailyDevTips" width="140px"><img src="./devcard.svg" width="140px" alt="Victor Mouza's Dev Card"/></a>
   <p>I'm a software developer at agenciaM3. I'm a 23 year old Brazilian and bachelor's student in Information Systems, so I'm always looking for new experiences. I also love to travel and meet new people :D .</p>
 </center>
 <div style="display: inline_block"><br>
