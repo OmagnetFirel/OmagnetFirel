@@ -8,7 +8,7 @@
 
 (React JS | Node JS | JavaScript | AWS | Next JS | Typescript | HTML | CSS | Java | Spring | Python | Docker | Git ) 🚀
 - 👨‍💻 I'm a software developer at CI&T
-- 🎓 Bachelor's student in Information Systems
+- 🎓 Student Bachelor of Information Systems at CEFET-RJ
 - 💡 I'm always looking for new experiences
 
 <div align="left">
